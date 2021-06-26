@@ -1,4 +1,4 @@
-body{
+#first-section{
     background: linear-gradient(#60ebeb 0%, #27ae60 100%);
     opacity: 0.83;
     height: 600px;
@@ -9,4 +9,22 @@ body{
 #funnithing{
 height: 100px;
 width: 100px;
+}
+.line{
+    width: 400px;
+    height: 20px;
+    background-color: black;
+    margin-left: 750px;
+    margin-bottom: 10px
+}
+#second-section{
+    background: linear-gradient(#0800ff 0%, #060270 100%);
+    opacity: 0.83;
+    height: 600px;
+    width: 100%;
+    display: table;
+    text-align: center;
+}
+#p2{
+    font-size: 20px;
 }
